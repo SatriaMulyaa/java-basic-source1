@@ -1,5 +1,6 @@
 {
   "java.project.sourcePaths": [
-    "java-02-path-execute"
+    "java-02-path-execute",
+    "java-03-string-args/src"
   ]
 }
