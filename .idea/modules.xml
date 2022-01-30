@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-00-hello-world/java-00-hello-world.iml" filepath="$PROJECT_DIR$/java-00-hello-world/java-00-hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-01-package/java-01-package.iml" filepath="$PROJECT_DIR$/java-01-package/java-01-package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-03-string-args/java-03-string-args.iml" filepath="$PROJECT_DIR$/java-03-string-args/java-03-string-args.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-04-varible-assignments-declaration/java-04-varible-assignments-declaration.iml" filepath="$PROJECT_DIR$/java-04-varible-assignments-declaration/java-04-varible-assignments-declaration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-05-tipe-data-fundamental-primitive/java-05-tipe-data-fundamental-primitive.iml" filepath="$PROJECT_DIR$/java-05-tipe-data-fundamental-primitive/java-05-tipe-data-fundamental-primitive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basic-source1.iml" filepath="$PROJECT_DIR$/java-basic-source1.iml" />
+    </modules>
+  </component>
+</project>
