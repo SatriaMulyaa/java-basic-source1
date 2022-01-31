@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-08-unary-operator/java-08-unary-operator.iml" filepath="$PROJECT_DIR$/java-08-unary-operator/java-08-unary-operator.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-09-operator-assignment/java-09-operator-assignment.iml" filepath="$PROJECT_DIR$/java-09-operator-assignment/java-09-operator-assignment.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-10-operator-comparison/java-10-operator-comparison.iml" filepath="$PROJECT_DIR$/java-10-operator-comparison/java-10-operator-comparison.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-11-operator-logic/java-11-operator-logic.iml" filepath="$PROJECT_DIR$/java-11-operator-logic/java-11-operator-logic.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-basic-source1.iml" filepath="$PROJECT_DIR$/java-basic-source1.iml" />
     </modules>
   </component>
