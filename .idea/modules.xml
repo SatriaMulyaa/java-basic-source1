@@ -6,10 +6,12 @@
       <module fileurl="file://$PROJECT_DIR$/java-01-package/java-01-package.iml" filepath="$PROJECT_DIR$/java-01-package/java-01-package.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-03-string-args/java-03-string-args.iml" filepath="$PROJECT_DIR$/java-03-string-args/java-03-string-args.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-04-varible-assignments-declaration/java-04-varible-assignments-declaration.iml" filepath="$PROJECT_DIR$/java-04-varible-assignments-declaration/java-04-varible-assignments-declaration.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java-05-tipe-data-fundamental-primitive/java-05-tipe-data-fundamental-primitive.iml" filepath="$PROJECT_DIR$/java-05-tipe-data-fundamental-primitive/java-05-tipe-data-fundamental-primitive.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java-06-operator-aritmatika/java-06-operator-aritmatika.iml" filepath="$PROJECT_DIR$/java-06-operator-aritmatika/java-06-operator-aritmatika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-05-data-type-fundamental-primitive/java-05-data-type-fundamental-primitive.iml" filepath="$PROJECT_DIR$/java-05-data-type-fundamental-primitive/java-05-data-type-fundamental-primitive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-06-operator-arithmetic/java-06-operator-arithmetic.iml" filepath="$PROJECT_DIR$/java-06-operator-arithmetic/java-06-operator-arithmetic.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-07-numeric-data-type-conversions/java-07-numeric-data-type-conversions.iml" filepath="$PROJECT_DIR$/java-07-numeric-data-type-conversions/java-07-numeric-data-type-conversions.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-08-unary-operator/java-08-unary-operator.iml" filepath="$PROJECT_DIR$/java-08-unary-operator/java-08-unary-operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-09-operator-assignment/java-09-operator-assignment.iml" filepath="$PROJECT_DIR$/java-09-operator-assignment/java-09-operator-assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-10-operator-comparison/java-10-operator-comparison.iml" filepath="$PROJECT_DIR$/java-10-operator-comparison/java-10-operator-comparison.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-basic-source1.iml" filepath="$PROJECT_DIR$/java-basic-source1.iml" />
     </modules>
   </component>
