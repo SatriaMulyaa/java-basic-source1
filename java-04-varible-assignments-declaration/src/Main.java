@@ -9,7 +9,7 @@ public class Main {
 
         //  this is example declaration
         int b;
-        // this example that we cant to run a declaration without value
+        // this example that we can't to run a declaration without value
         System.out.println("nilai b = " + b);
 
     }
