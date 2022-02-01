@@ -58,5 +58,17 @@ public class Main {
         c = (byte)(a ^ b);
         c_bits = String.format("%8s",Integer.toBinaryString(c)).replace(' ', '0');
         System.out.printf("%s = %d\n",c_bits,c);
+
+        System.out.println("=======BITWISE NOT (~) ");
+        a = 24;
+        a_bits = String.format("%8s",Integer.toBinaryString(a)).replace(" ", "0");
+        System.out.printf("%s = %d\n",a_bits,a);
+        System.out.println("--------------NOT");
+        b = (byte) (~a);
+        c = (byte) (~a);
+        a_bits = String.format("%8s",Integer.toBinaryString(b)).substring(24);
+        b_bits = String.format("%8s",Integer.toBinaryString(c)).replace(" ", "0");
+        System.out.printf("%s = %d\n",a_bits,b);
+        System.out.printf("%s = %d\n",b_bits,c);
     }
 }
