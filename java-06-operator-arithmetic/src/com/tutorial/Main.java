@@ -33,5 +33,6 @@ public class Main {
         hasil = variable1 % variable2;
         System.out.printf("%d %% %d = %d \n",variable1,variable2,hasil);
 
+
     }
 }

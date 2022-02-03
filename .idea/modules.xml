@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-10-operator-comparison/java-10-operator-comparison.iml" filepath="$PROJECT_DIR$/java-10-operator-comparison/java-10-operator-comparison.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-11-operator-logic/java-11-operator-logic.iml" filepath="$PROJECT_DIR$/java-11-operator-logic/java-11-operator-logic.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-12-operator-bitwise/java-12-operator-bitwise.iml" filepath="$PROJECT_DIR$/java-12-operator-bitwise/java-12-operator-bitwise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-13-user-input-scanner-aritmethic-training/java-13-user-input-scanner-aritmethic-training.iml" filepath="$PROJECT_DIR$/java-13-user-input-scanner-aritmethic-training/java-13-user-input-scanner-aritmethic-training.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-basic-source1.iml" filepath="$PROJECT_DIR$/java-basic-source1.iml" />
     </modules>
   </component>
