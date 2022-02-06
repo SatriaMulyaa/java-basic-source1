@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-16-if-else-statement/java-16-if-else-statement.iml" filepath="$PROJECT_DIR$/java-16-if-else-statement/java-16-if-else-statement.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-17-if-elseIF-statement/java-17-if-elseIF-statement.iml" filepath="$PROJECT_DIR$/java-17-if-elseIF-statement/java-17-if-elseIF-statement.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-18-nestedIF/java-18-nestedIF.iml" filepath="$PROJECT_DIR$/java-18-nestedIF/java-18-nestedIF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-19-SwitchCase/java-19-SwitchCase.iml" filepath="$PROJECT_DIR$/java-19-SwitchCase/java-19-SwitchCase.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-basic-source1.iml" filepath="$PROJECT_DIR$/java-basic-source1.iml" />
     </modules>
   </component>

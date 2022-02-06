@@ -7,10 +7,10 @@ public class Main2 {
         b = 5;
         c = 4;
 
-        if(a == 1) {
+        if(a==1) {
             System.out.println("statement1");
         }else{
-            if(b == 3){
+            if(b==3){
                 System.out.println("statement 4");
             }else{
                 if(c == 2){
