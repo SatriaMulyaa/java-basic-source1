@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-20-TernaryOperator/Java-20-TernaryOperator.iml" filepath="$PROJECT_DIR$/Java-20-TernaryOperator/Java-20-TernaryOperator.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-00-hello-world/java-00-hello-world.iml" filepath="$PROJECT_DIR$/java-00-hello-world/java-00-hello-world.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-01-package/java-01-package.iml" filepath="$PROJECT_DIR$/java-01-package/java-01-package.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-03-string-args/java-03-string-args.iml" filepath="$PROJECT_DIR$/java-03-string-args/java-03-string-args.iml" />
