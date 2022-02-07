@@ -24,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-20-TernaryOperator/java-20-TernaryOperator.iml" filepath="$PROJECT_DIR$/java-20-TernaryOperator/java-20-TernaryOperator.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-21-calculator-training/java-21-calculator-training.iml" filepath="$PROJECT_DIR$/java-21-calculator-training/java-21-calculator-training.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-22-while-loop/java-22-while-loop.iml" filepath="$PROJECT_DIR$/java-22-while-loop/java-22-while-loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-23-doWhileLoop/java-23-doWhileLoop.iml" filepath="$PROJECT_DIR$/java-23-doWhileLoop/java-23-doWhileLoop.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-basic-source1.iml" filepath="$PROJECT_DIR$/java-basic-source1.iml" />
     </modules>
   </component>
