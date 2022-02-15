@@ -1,6 +1,6 @@
 package com.tutorial;
 
-public class Main {
+public class    Main {
     public static void main(String[] args) {
 
         // unary + and -
@@ -19,12 +19,12 @@ public class Main {
         System.out.printf("unary '--', %d become %d\n",numbers2, -numbers2);
 
         // post increment
-        int a = 5;
-        System.out.printf("value with '++' a post increment become = %d\n", ++a);
-        // prefix decrement
         int b = 5;
         System.out.printf("value with '--' a prefix increment become = %d\n", b++);
         System.out.printf("result value of prefix increment is = %d\n", b);
+        // prefix increment
+        int a = 5;
+        System.out.printf("value with '++' a post increment become = %d\n", ++a);
 
         // unary boolean with ! for negation
         boolean ucup = true;
