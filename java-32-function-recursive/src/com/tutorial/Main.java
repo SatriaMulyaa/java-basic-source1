@@ -25,7 +25,6 @@ public class Main {
             return;
         }
         printValue(value);
-
     }
 
     private static int factorial(int value){
