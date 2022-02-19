@@ -40,6 +40,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-35-method-overload/java-35-method-overload.iml" filepath="$PROJECT_DIR$/java-35-method-overload/java-35-method-overload.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-36-arrayIntroduction/java-36-arrayIntroduction.iml" filepath="$PROJECT_DIR$/java-36-arrayIntroduction/java-36-arrayIntroduction.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-37-arrayloopingwithForeach/java-37-arrayloopingwithForeach.iml" filepath="$PROJECT_DIR$/java-37-arrayloopingwithForeach/java-37-arrayloopingwithForeach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-38-understand-array-in-depth/java-38-understand-array-in-depth.iml" filepath="$PROJECT_DIR$/java-38-understand-array-in-depth/java-38-understand-array-in-depth.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-basic-source1.iml" filepath="$PROJECT_DIR$/java-basic-source1.iml" />
     </modules>
   </component>
