@@ -42,6 +42,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-37-arrayloopingwithForeach/java-37-arrayloopingwithForeach.iml" filepath="$PROJECT_DIR$/java-37-arrayloopingwithForeach/java-37-arrayloopingwithForeach.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-38-understand-array-in-depth/java-38-understand-array-in-depth.iml" filepath="$PROJECT_DIR$/java-38-understand-array-in-depth/java-38-understand-array-in-depth.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-39-operations-on-arrays/java-39-operations-on-arrays.iml" filepath="$PROJECT_DIR$/java-39-operations-on-arrays/java-39-operations-on-arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-40-latihanArray/java-40-latihanArray.iml" filepath="$PROJECT_DIR$/java-40-latihanArray/java-40-latihanArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-basic-source1.iml" filepath="$PROJECT_DIR$/java-basic-source1.iml" />
     </modules>
   </component>

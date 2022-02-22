@@ -1,6 +1,6 @@
 package com.tutorial;
 import java.util.*;
-import java.lang.String;
+//import java.lang.String;
 
 public class TrainingAgain1 {
     public static void main(String[] args) {
