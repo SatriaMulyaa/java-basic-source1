@@ -15,9 +15,9 @@ public class Main {
         System.out.println(arrayInteger[3]);
         System.out.println(Arrays.toString(arrayInteger));
 
-
-        System.out.println("array declare");
         // declare
+        // datatype[] name = new int[number of array];
+        System.out.println("array declare");
         float[]arrayFloat = new float[5];
         arrayFloat[3] = 11.5F;
 
