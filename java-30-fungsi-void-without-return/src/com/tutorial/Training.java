@@ -30,4 +30,6 @@ public class Training {
         int perimeter = 2*(length+breadth);
         return perimeter;
     }
+
+
 }
