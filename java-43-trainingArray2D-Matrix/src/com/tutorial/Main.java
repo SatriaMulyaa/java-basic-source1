@@ -29,8 +29,8 @@ public class Main {
         };
 
         int[][]matrixD = {
-                {11,12},
-                {13,14},
+                {5,6},
+                {7,8},
         };
 
         int barisC = matrixC.length;
