@@ -50,6 +50,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-45-OperasiString/java-45-OperasiString.iml" filepath="$PROJECT_DIR$/java-45-OperasiString/java-45-OperasiString.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-46-StringBuilder/java-46-StringBuilder.iml" filepath="$PROJECT_DIR$/java-46-StringBuilder/java-46-StringBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-47-formatString/java-47-formatString.iml" filepath="$PROJECT_DIR$/java-47-formatString/java-47-formatString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-48-mengenal-exception/java-48-mengenal-exception.iml" filepath="$PROJECT_DIR$/java-48-mengenal-exception/java-48-mengenal-exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-basic-source1.iml" filepath="$PROJECT_DIR$/java-basic-source1.iml" />
     </modules>
   </component>
