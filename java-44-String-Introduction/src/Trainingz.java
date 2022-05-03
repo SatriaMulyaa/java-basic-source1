@@ -53,12 +53,6 @@ public class Trainingz {
         z = "lacasto";
         print("z", z);
 
-
-
-
-
-
-
     }
 
     private static void print(String name, String data){
